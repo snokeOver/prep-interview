@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "question": "What is Template Literal?",
+    "code": "const name = \"John\";\nconst greeting = `Hello, ${name}!`;\nconsole.log(greeting); // Output: Hello, John!",
+    "answerLine1": "A template literal, also known as a template string, is a feature found in certain programming languages, such as JavaScript, TypeScript, and newer versions of Python. It allows for more flexible string formatting compared to traditional string literals.",
+    "answerLine2": "In JavaScript, template literals are enclosed by backticks (`) instead of single or double quotation marks. They can contain placeholders, indicated by ${}, where expressions or variables can be inserted directly into the string.",
+    "answerLine3": "Template literals make it easier to create strings that include dynamic content or multiline strings without the need for concatenation or special newline characters. They are especially useful when generating HTML or other structured text in web development."
+  },
+
+  {
+    "id": "2",
+    "question": "What is String Literal?",
+    "answerLine1": "A string literal is a sequence of characters enclosed in double quotation marks (\") or single quotation marks ('). In programming languages, particularly in languages like Python, Java, C, and many others, string literals are used to represent text data. For example, \"Hello, world!\" and 'This is a string literal' are both examples of string literals. They are used to store and manipulate textual data within a program."
+  }
+]
